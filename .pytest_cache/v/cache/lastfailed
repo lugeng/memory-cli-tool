@@ -1,0 +1,15 @@
+{
+  "tests/cli/test_cli_tools.py::test_read_note[asyncio]": true,
+  "tests/cli/test_cli_tools.py::test_search_basic[asyncio]": true,
+  "tests/cli/test_cli_tools.py::test_search_permalink[asyncio]": true,
+  "tests/mcp/test_tool_move_note.py::TestMoveNoteErrorHandling::test_move_note_permission_error_handling[asyncio]": true,
+  "tests/mcp/test_tool_read_note.py::test_multiple_notes[asyncio]": true,
+  "tests/mcp/test_tool_read_note.py::test_multiple_notes_pagination[asyncio]": true,
+  "tests/mcp/test_tool_read_note.py::test_read_note_direct_success[asyncio]": true,
+  "tests/mcp/test_tool_read_note.py::test_read_note_title_search_fallback[asyncio]": true,
+  "tests/mcp/test_tool_search.py::TestSearchToolErrorHandling::test_search_notes_exception_handling[asyncio]": true,
+  "tests/mcp/test_tool_search.py::TestSearchToolErrorHandling::test_search_notes_permission_error[asyncio]": true,
+  "tests/mcp/test_tool_view_note.py::test_view_note_unicode_content[asyncio]": true,
+  "tests/mcp/test_tool_view_note.py::test_view_note_direct_success[asyncio]": true,
+  "tests/mcp/test_tool_view_note.py::test_view_note_title_search_fallback[asyncio]": true
+}
